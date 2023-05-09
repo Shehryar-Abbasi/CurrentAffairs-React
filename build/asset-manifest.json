@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CurrentAffairs-React/static/css/main.abd64e84.css",
+    "main.js": "/CurrentAffairs-React/static/js/main.7417d9fd.js",
+    "static/js/787.4c026eef.chunk.js": "/CurrentAffairs-React/static/js/787.4c026eef.chunk.js",
+    "index.html": "/CurrentAffairs-React/index.html",
+    "main.abd64e84.css.map": "/CurrentAffairs-React/static/css/main.abd64e84.css.map",
+    "main.7417d9fd.js.map": "/CurrentAffairs-React/static/js/main.7417d9fd.js.map",
+    "787.4c026eef.chunk.js.map": "/CurrentAffairs-React/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.7417d9fd.js"
+  ]
+}
